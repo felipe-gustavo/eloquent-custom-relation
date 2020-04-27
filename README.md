@@ -13,7 +13,7 @@ Create your own custom relation for when stock relations aren't enough
 The recommended way to install is with [composer](http://getcomposer.org/):
 
 ```shell
-composer require ardalanamini/laravel-custom-relation
+composer require felipe-gustavo/laravel-custom-relation
 ```
 
 ## Example
