@@ -9,7 +9,7 @@ use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Model;
 
-class Custom extends Relation {
+class CustomOne extends Relation {
     /**
     * The baseConstraints callback
     *
@@ -136,7 +136,7 @@ class Custom extends Relation {
     * @return mixed
     */
     public function getResults() {
-        return $this->get();
+        return $this->get()->first();
     }
 
     /**
