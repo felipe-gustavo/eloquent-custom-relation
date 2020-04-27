@@ -24,7 +24,7 @@
   },
   "require": {
     "php": ">=7.0.0",
-    "illuminate/database": "^8.0@dev"
+    "illuminate/database": "^7.8"
   },
   "repositories": [{
     "type": "git",
