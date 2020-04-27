@@ -1,9 +1,9 @@
 {
-  "name": "felipe-gustavo/laravel-custom-relation",
+  "name": "felipe-gustavo/eloquent-custom-relation",
   "type": "library",
   "description": "Create your own custom relation for when stock relations aren't enough",
   "keywords": ["laravel", "eloquent", "relation", "custom", "relationship"],
-  "homepage": "https://github.com/felipe-gustavo/laravel-custom-relation",
+  "homepage": "https://github.com/felipe-gustavo/eloquent-custom-relation",
   "license": "MIT",
   "authors": [{
     "name": "Ardalan Amini",
@@ -28,6 +28,6 @@
   },
   "repositories": [{
     "type": "git",
-    "url": "https://github.com/felipe-gustavo/laravel-custom-relation.git"
+    "url": "https://github.com/felipe-gustavo/eloquent-custom-relation.git"
   }]
 }
